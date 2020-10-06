@@ -14,7 +14,7 @@ public class GPSData {
 		
 		throw new UnsupportedOperationException(TODO.construtor("GPSData"));
 
-		// TODO - SLUTT
+		// TODO - SLUTT Hallaisen brødre 
 	}
 
 	public GPSPoint[] getGPSPoints() {
