@@ -7,14 +7,13 @@ public class TODO {
 		String methodName = Thread.currentThread().getStackTrace()[2].getMethodName();
 		
 		return "Metoden " + methodName + " er ikke implementert";
-		// ytesysahdwaytdgyheaipdjwjfhbiuiwjakdkjanwfpoawfji
+		
 	}
 	
 	
 	public static String construtor(String className) {
 				
 	   return "Konstruktøren for klassen " + className + " er ikke implementert";
-	//jamannnd	
 	}
 
 }
